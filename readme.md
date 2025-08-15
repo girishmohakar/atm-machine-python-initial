@@ -22,11 +22,11 @@ This is a simple Python program that simulates a basic banking system. It allows
 4. Run the program using:
    ```bash
    python world_bank.py
-````
+   ```
 
 5. Enter the password when prompted (`1234` is the default password).
 6. Follow the instructions to deposit or check balance.
-
+---
 ## Program Flow
 
 1. The program displays a welcome message.
